@@ -4,16 +4,16 @@
 
 ---
 ## Sumário:
-1. Instalar o OWASP ZAP
-2. Executar a aplicação web.
-3. Abrir o OWASP ZAP.
-4. Selecionar "Quick Start".
-5. Escolher "Automated Scan".
-6. Informar a URL da aplicação.
-7. Executar o scan.
-8. Analisar os alertas encontrados.
-9. Corrigir as vulnerabilidades identificadas.
-10. Executar um novo scan para validação.
+1. [Instalar o OWASP ZAP](#1-instalar-o-owasp-zap)
+2. [Executar a aplicação web](#2-executar-a-aplicação-web)
+3. [Abrir o OWASP ZAP](#3-abrir-o-owasp-zap)
+4. [Selecionar "Quick Start"](#4-selecionar-quick-start)
+5. [Escolher "Automated Scan"](#5-escolher-automated-scan)
+6. [Informar a URL da aplicação](#6-informar-a-url-da-aplicação)
+7. [Executar o scan](#7-executar-o-scan)
+8. [Analisar os alertas encontrados](#8-analisar-os-alertas-encontrados)
+9. [Corrigir as vulnerabilidades identificadas](#9-corrigir-as-vulnerabilidades-identificadas)
+10. [Executar um novo scan para validação](#10-executar-um-novo-scan-para-validação)
 
 ## 1. Instalar o OWASP ZAP
 
