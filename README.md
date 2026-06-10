@@ -3,6 +3,17 @@
 > **OWASP ZAP (Zed Attack Proxy)** é uma ferramenta open source de segurança mantida pela OWASP, utilizada para encontrar vulnerabilidades em aplicações web por meio de testes automatizados e manuais.
 
 ---
+## Sumário:
+1. Instalar o OWASP ZAP
+2. Executar a aplicação web.
+3. Abrir o OWASP ZAP.
+4. Selecionar "Quick Start".
+5. Escolher "Automated Scan".
+6. Informar a URL da aplicação.
+7. Executar o scan.
+8. Analisar os alertas encontrados.
+9. Corrigir as vulnerabilidades identificadas.
+10. Executar um novo scan para validação.
 
 ## 1. Instalar o OWASP ZAP
 
