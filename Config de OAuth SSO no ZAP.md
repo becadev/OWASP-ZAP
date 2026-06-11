@@ -39,8 +39,10 @@ HTTP Proxy:  127.0.0.1
 Porta:       8080
 ```
 
-6. Marque também **"Usar este proxy para HTTPS"**
-7. Clique em **OK**
+6. Marque também **"Usar este proxy para HTTPS"** (Não apertar em OK até realizar o passo 7)
+7. Acessar `about:config`:
+   - Buscar `network.proxy.allow_hijacking_localhost` , mudar para True
+9. Clique em **OK**
 
 > ⚠️ Lembre-se de **desfazer essa configuração** ao terminar os testes, para não afetar o uso normal do navegador.
 
