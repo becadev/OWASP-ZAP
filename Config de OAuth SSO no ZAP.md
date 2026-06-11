@@ -40,7 +40,7 @@ Porta:       8080
 ```
 
 6. Marque também **"Usar este proxy para HTTPS"** (Não apertar em OK até realizar o passo 7)
-7. Acessar `about:config`:
+7. Acessar `about:config` no firefox:
    - Buscar `network.proxy.allow_hijacking_localhost` , mudar para True
 9. Clique em **OK**
 
