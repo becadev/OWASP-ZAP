@@ -46,6 +46,7 @@ Porta:       8080
 
 > ⚠️ Lembre-se de **desfazer essa configuração** ao terminar os testes, para não afetar o uso normal do navegador.
 > Conferir se a configuração do proxy deu certo acessando `http://zap/` se não aparecer nada é porque deu errado.
+> ⚠️ se as requiisçoes não estiver aparacendo no "historico" é porque a configuração do proxy caiu, verificar se `http://zap/` está acessando normalmente.
 ---
 
 ## Etapa 2 — Instalar o Certificado do ZAP no Firefox
